@@ -90,7 +90,7 @@ I enjoy working on projects that bridge **ML models**, **RAG-based chatbots**, a
 
 ### 🌐 Connect with Me  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/rakshitha-kottam-547a3628a/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/rakshitha-kottam-547a3628a/)
 [![Leetcode](https://img.shields.io/badge/Leetcode-gold?logo=leetcode&logoColor=white)](https://leetcode.com/u/rackcode365/)
 [![Mail](https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white)](mailto:kottamrakshitha0912@gmail.com)
 
